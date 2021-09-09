@@ -146,13 +146,13 @@ form {
 
 #searchbar-input {
     background-color: transparent;
+    flex: 1;
     border: none;
     margin: 0;
     padding: 0;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
     outline: none;
-    -webkit-tap-highlight-color: transparent;
     margin-top: -37px;
     height: 34px;
     font-size: 16px;
